@@ -15,6 +15,8 @@
 	/* Faz a verificacao e decide o que fazer*/
 	if($comando == 'index'){
 		$controlador->index();
+	}else if($comando == 'off'){
+		$controlador->index();	
 	}else{
 		$controlador->erro();
 	}
