@@ -1,1 +1,2 @@
-# hotel_mvc_simples
+# Sistema para gerenciamente de hotel feito com PHP MVC
+
